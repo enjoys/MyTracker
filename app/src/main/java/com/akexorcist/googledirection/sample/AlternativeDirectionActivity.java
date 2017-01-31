@@ -32,6 +32,7 @@ public class AlternativeDirectionActivity extends AppCompatActivity implements O
     private String[] colors = {"#7fff7272", "#7f31c7c5", "#7fff8a00"};
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
