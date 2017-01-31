@@ -24,7 +24,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.akexorcist.googledirection.sample.AlternativeDirectionActivity"
+            android:name="com.akexorcist.googledirection.sample.Authentication"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -49,6 +49,7 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyA-qZ5cQMQBYkwlU65Y8BLOjE-n7g7s7k8" />
 
+        <activity android:name="com.akexorcist.googledirection.sample.AlternativeDirectionActivity" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

@@ -1,5 +1,17 @@
 [
     {
+        "merged": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\user.png",
+        "source": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\src\\main\\res\\mipmap-xhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\user2.png",
+        "source": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\src\\main\\res\\mipmap-xhdpi\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\password.png",
+        "source": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\src\\main\\res\\mipmap-xhdpi\\password.png"
+    },
+    {
         "merged": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
