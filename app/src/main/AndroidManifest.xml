@@ -17,7 +17,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".AlternativeDirectionActivity" android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -34,7 +34,7 @@
             android:label="@string/transit_direction" />
 
         <activity
-            android:name=".AlternativeDirectionActivity"
+            android:name=".MainActivity"
             android:label="@string/alternative_direction" />
 
         <meta-data
@@ -43,7 +43,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCBWrgN_x8AJ6umxzHTLmSnzKby-awKLdc" />
+            android:value="AIzaSyA-qZ5cQMQBYkwlU65Y8BLOjE-n7g7s7k8" />
 
     </application>
 
