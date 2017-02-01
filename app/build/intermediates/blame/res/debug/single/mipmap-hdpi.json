@@ -8,11 +8,11 @@
         "source": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\src\\main\\res\\mipmap-hdpi\\password.png"
     },
     {
-        "merged": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\user2.png",
         "source": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\src\\main\\res\\mipmap-hdpi\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]
