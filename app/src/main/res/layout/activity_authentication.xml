@@ -18,8 +18,8 @@
         android:background="#50000000"
         android:id="@+id/linAuthen"
         android:layout_below="@+id/imageView6"
-        android:paddingTop="40dp"
-        android:layout_marginTop="40dp">
+        android:paddingTop="30dp"
+        android:layout_marginTop="100dp">
 
         <LinearLayout
             android:orientation="horizontal"
@@ -40,7 +40,7 @@
                 android:ems="10"
                 android:id="@+id/editText"
                 android:layout_weight="1"
-                android:hint="User :"
+                android:hint="Username :"
                 android:textSize="18sp"
                 android:padding="8dp"
                 android:background="@android:color/white" />
@@ -73,24 +73,39 @@
 
     </LinearLayout>
 
+    <Button
+        android:text="กรุณาเข้าสู่ระบบ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:onClick="clickLogin"
+        android:background="#bebebe"
+        android:textColor="@android:color/background_dark"
+        android:layout_marginBottom="17dp"
+        android:textSize="20sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" />
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/thpsymbol"
         android:id="@+id/imageView6"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp" />
+        android:layout_marginTop="10dp" />
 
-    <Button
-        android:text="Log in"
-        android:layout_width="match_parent"
+    <TextView
+        android:text="ระบบติดตามยานพาหนะ"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="17dp"
-        android:layout_marginStart="17dp"
-        android:layout_marginTop="12dp"
-        android:id="@+id/button2"
-        android:layout_alignParentBottom="true"
-        android:onClick="clickLogin"
-        android:background="?android:attr/colorPrimaryDark"
-        android:textColor="@color/common_google_signin_btn_text_dark_default" />
+        android:layout_marginTop="14dp"
+        android:id="@+id/textView4"
+        android:textSize="30sp"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:layout_below="@+id/imageView6"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>

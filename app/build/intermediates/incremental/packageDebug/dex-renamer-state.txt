@@ -1,7 +1,4 @@
-#Tue Jan 31 15:40:51 ICT 2017
-base.0=C\:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_67d8a532e05e5cd734ae3c0be304e64215e7d62f
-renamed.1=classes2.dex
+#Wed Feb 01 09:42:44 ICT 2017
+base.0=C\:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=C\:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a9f447eb374e8ddc493de244d0350c463df49881\\classes.dex
-base.1=C\:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a9f447eb374e8ddc493de244d0350c463df49881
-file.0=C\:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_67d8a532e05e5cd734ae3c0be304e64215e7d62f\\classes.dex
+file.0=C\:\\Users\\unchalee.ru\\Desktop\\JoyProject2\\MyTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
